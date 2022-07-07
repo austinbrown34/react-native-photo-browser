@@ -25,8 +25,9 @@
   "author": "Halil Bilir <hbilir@gmail.com>",
   "homepage": "https://github.com/halilb/react-native-photo-browser#readme",
   "dependencies": {
+    "deprecated-react-native-prop-types": "^2.3.0",
+    "prop-types": "15.5.10",
     "react-native-iphone-x-helper": "^1.2.1",
-    "react-native-progress": "^4.1.2",
-    "prop-types": "15.5.10"
+    "react-native-progress": "^4.1.2"
   }
 }
